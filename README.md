@@ -89,7 +89,3 @@ python main.py
 ## 🧷 라이선스
 
 MIT License
-
-```
-
----
